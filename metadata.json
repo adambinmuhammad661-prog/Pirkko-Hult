@@ -1,0 +1,5 @@
+{
+  "name": "Pirkko Hult - Hammaslääkäri Helsinki",
+  "description": "Ammattitaitoista hammashoitoa Pirkko Hultilta Lauttasaaressa, Helsingissä. Laadukasta huolenpitoa hymyllesi.",
+  "requestFramePermissions": ["geolocation"]
+}
